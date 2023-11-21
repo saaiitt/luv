@@ -113,7 +113,7 @@ body {
   100% {
     visibility: visible;
     margin-top: 50px;
-    height: 150px;
+    height: 225px;
     margin-left: 50%;
     transform: translateX(-50%);
   }
